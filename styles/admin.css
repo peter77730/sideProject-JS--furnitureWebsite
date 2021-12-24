@@ -131,7 +131,7 @@ q:after {
 table {
   border-collapse: collapse;
   border-spacing: 0;
-}
+};
 
 *,
 *::after,
@@ -140,32 +140,32 @@ table {
   box-sizing: border-box;
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
-}
+};
 
 html,
 body {
   line-height: 1.5;
-}
+};
 
 img {
   max-width: 100%;
   display: block;
-}
+};
 
 body {
   font-family: "Noto Sans", sans-serif;
   font-weight: bold;
-}
+};
 
 .wrap {
   max-width: 1110px;
   margin: 0 auto;
-}
+};
 
 .topBar {
   border-bottom: 40px solid #000000;
   margin-bottom: 30px;
-}
+};
 
 .topBar .wrap {
   display: -webkit-box;
@@ -180,7 +180,7 @@ body {
   align-items: center;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
-}
+};
 
 @media (max-width: 1110px) {
   .topBar .wrap {
