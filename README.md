@@ -2,11 +2,15 @@
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 WOWOROOM家居網 [childEducationSystem](https://peter77730.github.io/sideProject-BS5--childEducationSystem/)
+- 🔭 WOWOROOM家居網 [furnitureWebsite](https://peter77730.github.io/sideProject-BS5--childEducationSystem/)
 
-- 🔭 WOWOROOM家居網-後台系統 [childEducationSystem](https://peter77730.github.io/sideProject-BS5--childEducationSystem/)
-         登入後台：api_path = "peter77730";
-                ：token = "mMbOGWzLLGahdTzsOQ5Giq6aTOA3";
+- 🔭 WOWOROOM家居網-後台系統 [furnitureWebsite](https://peter77730.github.io/sideProject-BS5--childEducationSystem/)
+- 
+         登入後台：
+         
+         api_path = "peter77730"
+         
+          ：token = "mMbOGWzLLGahdTzsOQ5Giq6aTOA3"
 
 - 🌱 I’m currently learning **HTML SCSS JavaScript React**
 
