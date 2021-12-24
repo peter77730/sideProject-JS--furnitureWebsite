@@ -2,9 +2,9 @@
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 WOWOROOM家居網 [furnitureWebsite](https://peter77730.github.io/sideProject-BS5--childEducationSystem/)
+- 🔭 WOWOROOM家居網 [furnitureWebsite](https://peter77730.github.io/sideProject-JS--furnitureWebsite/)
 
-- 🔭 WOWOROOM家居網-後台系統 [furnitureWebsite](https://peter77730.github.io/sideProject-BS5--childEducationSystem/)
+- 🔭 WOWOROOM家居網-後台系統 [furnitureWebsite](https://peter77730.github.io/sideProject-JS--furnitureWebsite/admin)
 - 
          登入後台：
          
