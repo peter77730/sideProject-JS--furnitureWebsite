@@ -1,16 +1,20 @@
-<h1 align="center">Hi 👋, I'm Peter Chen</h1>
+ # WOWOROOM家居網👋
+ 
+ 這是一個使用虛擬的家具品牌*WOWOROOM*，分為前台和後台系統，前台供使用者使用，後台供管理者使用。
+ 使用者可在前台完成購物體驗(加入購物車、刪除訂單、訂購等等)；
+ 管理者可在後台查看訂單紀錄與修改訂單狀態或刪除訂單等等。
 
-<h3 align="center">A passionate frontend developer from India</h3>
+![](https://i.imgur.com/XU86R0M.png)
 
 - 🔭 WOWOROOM家居網 [furnitureWebsite](https://peter77730.github.io/sideProject-JS--furnitureWebsite/)
 
 - 🔭 WOWOROOM家居網-後台系統 [furnitureWebsite](https://peter77730.github.io/sideProject-JS--furnitureWebsite/admin)
-- 
-         登入後台：
-         
-         api_path = "peter77730"
-         
-          ：token = "mMbOGWzLLGahdTzsOQ5Giq6aTOA3"
+
+- 📝 登入後台測試帳號
+  api_path "peter77730"
+  token "mMbOGWzLLGahdTzsOQ5Giq6aTOA3"
+  
+<hr>
 
 - 🌱 I’m currently learning **HTML SCSS JavaScript React**
 
@@ -24,14 +28,10 @@
 
 - ⚡ Fun fact **Persevere**
 
-<h3 align="left">Connect with me:</h3>
+<h3>Connect with me:</h3>
 
-<p align="left">
-
-<a href="https://codepen.io/陳品儒" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="陳品儒" height="30" width="40" /></a>
-
+<p align="left"><a href="https://codepen.io/陳品儒" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="陳品儒" height="30" width="40" /></a>
 <a href="https://fb.com/陳品儒" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="陳品儒" height="30" width="40" /></a>
-
 <a href="https://www.youtube.com/c/陳品儒" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="陳品儒" height="30" width="40" /></a>
 </p>
 
