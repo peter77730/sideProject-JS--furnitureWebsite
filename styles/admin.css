@@ -830,10 +830,12 @@ body {
   cursor: pointer;
 }
 
+
 .addBtnLogin:hover {
   color: white;
   background-color: black;
 }
+
 
 .loginLogin{
   display: block;
